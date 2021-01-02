@@ -1,0 +1,9 @@
+D:\new\BSTest\BSTest.Data\bin\Debug\netcoreapp3.1\BSTest.Data.deps.json
+D:\new\BSTest\BSTest.Data\bin\Debug\netcoreapp3.1\BSTest.Data.dll
+D:\new\BSTest\BSTest.Data\bin\Debug\netcoreapp3.1\BSTest.Data.pdb
+D:\new\BSTest\BSTest.Data\obj\Debug\netcoreapp3.1\BSTest.Data.csprojAssemblyReference.cache
+D:\new\BSTest\BSTest.Data\obj\Debug\netcoreapp3.1\BSTest.Data.AssemblyInfoInputs.cache
+D:\new\BSTest\BSTest.Data\obj\Debug\netcoreapp3.1\BSTest.Data.AssemblyInfo.cs
+D:\new\BSTest\BSTest.Data\obj\Debug\netcoreapp3.1\BSTest.Data.csproj.CoreCompileInputs.cache
+D:\new\BSTest\BSTest.Data\obj\Debug\netcoreapp3.1\BSTest.Data.dll
+D:\new\BSTest\BSTest.Data\obj\Debug\netcoreapp3.1\BSTest.Data.pdb

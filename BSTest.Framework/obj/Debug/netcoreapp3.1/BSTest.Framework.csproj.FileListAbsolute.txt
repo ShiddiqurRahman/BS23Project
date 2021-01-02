@@ -1,0 +1,12 @@
+D:\new\BSTest\BSTest.Framework\bin\Debug\netcoreapp3.1\BSTest.Framework.deps.json
+D:\new\BSTest\BSTest.Framework\bin\Debug\netcoreapp3.1\BSTest.Framework.dll
+D:\new\BSTest\BSTest.Framework\bin\Debug\netcoreapp3.1\BSTest.Framework.pdb
+D:\new\BSTest\BSTest.Framework\bin\Debug\netcoreapp3.1\BSTest.Data.dll
+D:\new\BSTest\BSTest.Framework\bin\Debug\netcoreapp3.1\BSTest.Data.pdb
+D:\new\BSTest\BSTest.Framework\obj\Debug\netcoreapp3.1\BSTest.Framework.csprojAssemblyReference.cache
+D:\new\BSTest\BSTest.Framework\obj\Debug\netcoreapp3.1\BSTest.Framework.AssemblyInfoInputs.cache
+D:\new\BSTest\BSTest.Framework\obj\Debug\netcoreapp3.1\BSTest.Framework.AssemblyInfo.cs
+D:\new\BSTest\BSTest.Framework\obj\Debug\netcoreapp3.1\BSTest.Framework.csproj.CoreCompileInputs.cache
+D:\new\BSTest\BSTest.Framework\obj\Debug\netcoreapp3.1\BSTest.Framework.csproj.CopyComplete
+D:\new\BSTest\BSTest.Framework\obj\Debug\netcoreapp3.1\BSTest.Framework.dll
+D:\new\BSTest\BSTest.Framework\obj\Debug\netcoreapp3.1\BSTest.Framework.pdb
